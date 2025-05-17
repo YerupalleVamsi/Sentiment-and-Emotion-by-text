@@ -1,6 +1,7 @@
 
 streamlit
 transformers
+torch
 scipy
 emoji
 nltk
