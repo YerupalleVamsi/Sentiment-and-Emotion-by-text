@@ -2,6 +2,8 @@
 streamlit
 transformers
 torch
+torchvision
+torchaudio
 scipy
 emoji
 nltk
