@@ -1,1 +1,7 @@
 
+streamlit
+transformers
+scipy
+emoji
+nltk
+pandas
