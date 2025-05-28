@@ -13,11 +13,6 @@ if st.button("Analyze"):
     if not text_input.strip():
         st.warning("Please enter some text to analyze.")
     else:
-        # Preprocess
-        tokens, filtered_tokens = preprocess_text(text_input)
-        #st.write("### Preprocessed Text Tokens:")
-        #st.write(filtered_tokens)
-
         # Predict sentiment
         sentiment_scores = predict_sentiment(text_input)
         st.write("### Sentiment Scores:")
