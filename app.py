@@ -1,5 +1,4 @@
 import streamlit as st
-from preprocess import preprocess_text
 from model import predict_sentiment, predict_emotion
 import nltk
 nltk.download('stopwords')
