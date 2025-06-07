@@ -15,7 +15,7 @@ This Streamlit app predicts **sentiment** (positive, neutral, negative) and **em
 ---
 ## 🚀 Live App
 
-👉 [Click here to view live App](https://sentiment-and-emotion-by-text-huvvuev4eloijsqtrxrceh.streamlit.app/)
+👉 [Click here to view live App](https://sentiment-and-emotion-by-text-4rkjbw9ekoxyasgdgvqz9c.streamlit.app/)
 
 ## Installation
 
